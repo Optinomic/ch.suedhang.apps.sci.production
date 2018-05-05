@@ -19,7 +19,7 @@ website = http://suedhang.ch/de/Forschung
 
 [template SCI 6 12]
 __opapp_include(lib/polymer/index.m4)
-__opapp_include(../ch.suedhang.apps.sci/elements/element-sci.html)
+__opapp_include(ch.suedhang.apps.sci/elements/element-sci.html)
 __opapp_include(elements/view.html)
 
 [readme]
